@@ -7,4 +7,4 @@ var y = 12;
 
 var b = x + y;
 
-console.log('b');
+console.log(b);
